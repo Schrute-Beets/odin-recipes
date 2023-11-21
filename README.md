@@ -1,0 +1,1 @@
+Short webpage to practice basics
